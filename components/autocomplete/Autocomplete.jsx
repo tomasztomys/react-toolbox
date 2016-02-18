@@ -58,7 +58,7 @@ class Autocomplete extends React.Component {
    const key = this.props.multiple ? keys : keys[0];
    const query = this.query(key);
    if (this.props.onChange) this.props.onChange(key, event);
-   this.setState({ focus: false, query }, () => { this.refs.input.blur(); });
+
  };
 
  handleQueryBlur = () => {

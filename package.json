@@ -1,5 +1,5 @@
 {
-  "name": "react-toolbox",
+  "name": "react-toolbox-ttomys",
   "version": "0.14.0",
   "homepage": "http://www.react-toolbox.com",
   "description": "A set of React components implementing Google's Material Design specification with the power of CSS Modules.",
@@ -103,7 +103,7 @@
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0"
   },
-  "repository": "github:react-toolbox/react-toolbox",
+  "repository": "github:tomasztomys/react-toolbox",
   "dependencies": {
     "classnames": "^2.2.1"
   }
